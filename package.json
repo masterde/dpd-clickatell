@@ -1,7 +1,7 @@
 {
   "name": "dpd-clickatell",
   "version": "0.0.1",
-  "description": "can send SMS via Clickatell in deployd",
+  "description": "Send SMS via Clickatell in deployd",
   "main": "index.js",
   "repository": "masterde/dpd-clickatell",
   "author": "Baker Shamlan <dev@baker.io> (http://baker.io/)",

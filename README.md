@@ -56,4 +56,4 @@ Just send me a Pull Request in Github.
 ## Contributors
 
 [Eric Fong](https://github.com/ericfong)
-[Chris Brand](http://www.cainsvault.com/)
+[Chris Brand](http://www.cainsvault.com)
