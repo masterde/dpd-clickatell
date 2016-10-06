@@ -1,0 +1,22 @@
+{
+  "name": "dpd-clickatell",
+  "version": "0.0.1",
+  "description": "can send SMS via Clickatell in deployd",
+  "main": "index.js",
+  "repository": "masterde/dpd-clickatell",
+  "author": "Baker Shamlan <dev@baker.io> (http://baker.io/)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dpd",
+    "deployd",
+    "dpdmodule",
+    "clickatell",
+    "sms"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "clickatell-node": "^0.0.3"
+  }
+}
